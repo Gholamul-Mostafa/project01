@@ -1,8 +1,13 @@
 h{
   color: blue;
- 
-  
 }
+.audio{
+  color: red;
+  background-color: brown;
+  margin-left: 20px;
+  margin-right: 20px;
+  padding: 20px 20px 20px 20Px;
+
 p{
   border: 50px 50px 50px 50px;
   padding: 20px;
@@ -10,4 +15,9 @@ p{
   text-align: center;
   background-color: black;
   text-decoration-color: white;
+}
+form{
+  margin: 10px 10px 10px 10px;
+  padding: 10px 10px 10px 10px;
+  background-color: yellowgreen;
 }
